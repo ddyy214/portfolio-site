@@ -33,7 +33,7 @@ const Intro = () => {
                         <img src={about} alt="어바웃" />
                     </div>
                 </div>
-                <div class="intro__lines bottom" aria-hidden="true">
+                <div className="intro__lines bottom" aria-hidden="true">
                     <span className="line"></span>
                     <span className="line"></span>
                     <span className="line"></span>
