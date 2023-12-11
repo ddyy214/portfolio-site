@@ -1,6 +1,7 @@
 import React from "react";
 import port01 from "../assets/img/port01.png";
 import port02 from "../assets/img/port02.png";
+import port03 from "../assets/img/port03.png";
 
 const portText = [
   {
@@ -14,12 +15,21 @@ const portText = [
   },
   {
     num: "02",
-    title: "Todo_List",
+    title: "restarea-food",
     desc: "React+NodeJs(프론트+서버)",
     img: port02,
     code: "https://github.com/ddyy214/restarea-food",
     view: "/",
-    name: "Todo List",
+    name: "휴게소맛집 찾기",
+  },
+  {
+    num: "03",
+    title: "movie_app",
+    desc: "React 클론코딩",
+    img: port03,
+    code: "/",
+    view: "/",
+    name: "뮤비평점앱",
 },
  
 ];
